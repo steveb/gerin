@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = gerin
+omit = gerin/openstack/*
+
+[report]
+ignore-errors = True
